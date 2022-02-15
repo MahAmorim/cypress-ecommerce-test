@@ -1,0 +1,15 @@
+{
+  "name": "cypress-ecommerce-test",
+  "version": "1.0.0",
+  "description": "Teste de um e-commerce desenvolvido em JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "./node_modules/.bin/cypress open"
+  },
+  "author": "Marcela Amorim",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^9.4.1"
+  }
+}
